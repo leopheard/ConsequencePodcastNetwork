@@ -8,17 +8,17 @@ In keeping with the times, Consequence of Sound formed the Consequence Podcast N
 
 “At Consequence, we’ve always held true to being a down-to-earth, personal voice in the world of media journalism,” Blackard says. “There’s no modern platform more personal than podcasts, and I’m excited that our fans and media-lovers in general get to know us even more intimately than before. We’re gonna have a lot of fun.”<br>
 
-Addon includes the following podcasts and also the CoS livestream:<br>
+Addon includes the following podcasts and also the <a href="https://tunein.com/radio/Consequence-of-Sound-Radio-s308323/">CoS livestream</a>:<br>
 
-- The Losers’ Club: A Stephen King Podcast
-- The Opus
-- Consequence Of Sound
-- This Must Be The Gig
-- Discography
-- Filmography
-- Halloweenies: A Horror Franchise Podcast
-- Kyle Meredith With...
-- The Fifth Dimension: A Twilight Zone Podcast
+- The Losers’ Club: A Stephen King Podcast<br>
+- The Opus<br>
+- Consequence Of Sound<br>
+- This Must Be The Gig<br>
+- Discography<br>
+- Filmography<br>
+- Halloweenies: A Horror Franchise Podcast<br>
+- Kyle Meredith With...<br>
+- The Fifth Dimension: A Twilight Zone Podcast<br>
 
 <a href="www.kodi.tv">Kodi</a> (formerly known as XBMC) is an award-winning free and open source (GPL) software media player and entertainment hub that can be installed on Linux, OSX, Windows, iOS and Android, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.<br>
 
