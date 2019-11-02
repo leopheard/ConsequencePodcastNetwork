@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio." name="xxxxx" version="1.0.0" provider-name="leopheard">
+<addon id="plugin.audio.consequencepodcastnetwork" name="CoS" version="1.0.0" provider-name="leopheard">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
     <import addon="script.module.xbmcswift2" version="2.4.0"/>
@@ -13,13 +13,13 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <language>en_us</language>
-    <summary lang="en">xxxxxxxxxx</summary>
-    <description lang="en">xxxddddxxxxx</description>
+    <summary lang="en">Consequence Of Sound podcast network</summary>
+    <description lang="en">In keeping with the times, Consequence of Sound formed the Consequence Podcast Network (CPN). Led by Director Cap Blackard, the network plans to shift the publication’s 10-year-old brand into the podcast arena with a series of exciting shows that reflect, evolve, and expand Consequence of Sound‘s original content in new and refreshing ways. Included (including livestream): The Losers’ Club: A Stephen King Podcast, The Opus, Consequence Of Sound, This Must Be The Gig, Discography, Filmography, Halloweenies: A Horror Franchise Podcast, Kyle Meredith With..., The Fifth Dimension: A Twilight Zone Podcast</description>
     <license>The MIT License (MIT)</license>
     <forum></forum>
     <email>leopheard@gmail.com</email>
-    <source>https://github.com/leopheard/</source>
-    <website></website>
+    <source>https://github.com/leopheard/ConsequencePodcastNetwork</source>
+    <website>https://consequenceofsound.net/consequence-podcast-network/</website>
         	<assets>
 			<icon>resources/media/icon.jpg</icon>
 			<fanart>resources/media/fanart.jpg</fanart>
