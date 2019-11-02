@@ -42,6 +42,11 @@ def get_soup8(url8):
     soup8 = BeautifulSoup(page.text, 'html.parser')
     print("type: ", type(soup8))
     return soup8
+def get_soup9(url9):
+    page = requests.get(url9)
+    soup9 = BeautifulSoup(page.text, 'html.parser')
+    print("type: ", type(soup9))
+    return soup9
 
 def get_playable_podcast1(soup1):
     subjects = []
