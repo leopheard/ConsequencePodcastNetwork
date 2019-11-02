@@ -10,6 +10,7 @@ url5 = "https://rss.acast.com/discography"
 url6 = "https://rss.acast.com/filmography"
 url7 = "https://rss.acast.com/halloweenies"
 url8 = "https://rss.acast.com/kylemeredith"
+url9 = "https://rss.acast.com/fifthdimension"
 
 @plugin.route('/')
 def main_menu():
@@ -51,6 +52,10 @@ def main_menu():
             'label': plugin.get_string(30008),
             'path': plugin.url_for('episodes8'),
             'thumbnail': "https://consequenceofsound.net/wp-content/uploads/2018/05/kyle-meredith-horiz.png"},
+        {
+            'label': plugin.get_string(30009),
+            'path': plugin.url_for('episodes9'),
+            'thumbnail': "https://thumborcdn.acast.com/pVzS9Kn5eYpIDpLav1ds0Q4Irgg=/3000x3000/https://mediacdn.acast.com/assets/c838ff43-d9ac-4636-8b24-93b34dce5b69/cover-image-jvsbpekc-fifth_dimension_album_art.png"},
     ]
     return items
 
@@ -101,6 +106,12 @@ def episodes8():
     soup8 = mainaddon.get_soup8(url8)
     playable_podcast8 = mainaddon.get_playable_podcast8(soup8)
     items = mainaddon.compile_playable_podcast8(playable_podcast8)
+    return items
+@plugin.route('/episodes9/')
+def episodes9():
+    soup9 = mainaddon.get_soup9(url9)
+    playable_podcast9 = mainaddon.get_playable_podcast9(soup9)
+    items = mainaddon.compile_playable_podcast9(playable_podcast9)
     return items
 if __name__ == '__main__':
     plugin.run()
