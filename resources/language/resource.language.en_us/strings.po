@@ -14,44 +14,16 @@ msgstr ""
 "Language: en\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgctxt "#30099"
-msgid "CoS - livestream"
+msgctxt "#30000"
+msgid "All Jimmy Dore shows"
 msgstr ""
 
 msgctxt "#30001"
-msgid "The Losers’ Club: A Stephen King Podcast"
+msgid "Latest Jimmy Dore Show"
 msgstr ""
 
 msgctxt "#30002"
-msgid "The Opus"
-msgstr ""
-
-msgctxt "#30003"
-msgid "Consequence Of Sound"
-msgstr ""
-
-msgctxt "#30004"
-msgid "This Must Be The Gig"
-msgstr ""
-
-msgctxt "#30005"
-msgid "Discography"
-msgstr ""
-
-msgctxt "#30006"
-msgid "Filmography"
-msgstr ""
-
-msgctxt "#30007"
-msgid "Halloweenies: A Horror Franchise Podcast"
-msgstr ""
-
-msgctxt "#30008"
-msgid "Kyle Meredith With…"
-msgstr ""
-
-msgctxt "#30009"
-msgid "The Fifth Dimension: A Twilight Zone Podcast"
+msgid "Comedy and Everything Else"
 msgstr ""
 
 # empty string with id 32003
